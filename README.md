@@ -7,7 +7,9 @@ The purpose of COVID-19 data analysis is to extract meaningful insights from the
 resource allocation, and public health interventions. By analyzing various aspects of the pandemic, such as case counts, testing rates, vaccination progress, hospitalizations, 
 and mortality rates, we can gain a deeper understanding of the virus's behavior and its impact on different populations.
 Here are some of the insights from this analysis
-**All the records where the Confirmed Cases is Less Than or equalto 10, On Date -  4/29/2020**
+**All the records where the Confirmed Cases is Less Than or equalto 10, On Date - 4/29/2020**
+
+
 ![img1](https://github.com/vaibhavUsa05/Analysis-of-Covid-Pandemic-/assets/108454407/ea5a9f0f-5b78-49ad-a5a1-c462d7237bfe)
 
 
