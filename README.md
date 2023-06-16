@@ -7,6 +7,8 @@ The purpose of COVID-19 data analysis is to extract meaningful insights from the
 resource allocation, and public health interventions. By analyzing various aspects of the pandemic, such as case counts, testing rates, vaccination progress, hospitalizations, 
 and mortality rates, we can gain a deeper understanding of the virus's behavior and its impact on different populations.
 Here are some of the insights from this analysis
+
+
 **All the records where the Confirmed Cases is Less Than or equalto 10, On Date - 4/29/2020**
 
 
